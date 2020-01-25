@@ -1,0 +1,3 @@
+C:\Users\KNOWN\Documents\immersion\BankPayment\obj\MCD\Debug\netcoreapp2.2\BankPayment.csprojAssemblyReference.cache
+C:\Users\KNOWN\Documents\immersion\BankPayment\obj\MCD\Debug\netcoreapp2.2\BankPayment.AssemblyInfoInputs.cache
+C:\Users\KNOWN\Documents\immersion\BankPayment\obj\MCD\Debug\netcoreapp2.2\BankPayment.AssemblyInfo.cs
